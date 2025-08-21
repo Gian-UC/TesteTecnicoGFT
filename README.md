@@ -1,4 +1,4 @@
-Desafios Técnicos – C#
+Desafio Técnico – C#
 
 Este projeto contém a resolução de 3 desafios de programação em C#, desenvolvidos como parte de um exercício de lógica, orientação a objetos e boas práticas de programação. Cada desafio foca em conceitos diferentes, como manipulação de strings, herança, polimorfismo e gerenciamento de dados em memória.
 
