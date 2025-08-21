@@ -1,0 +1,15 @@
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\bin\Debug\net9.0\TesteTecnicoGFT.exe
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\bin\Debug\net9.0\TesteTecnicoGFT.deps.json
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\bin\Debug\net9.0\TesteTecnicoGFT.runtimeconfig.json
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\bin\Debug\net9.0\TesteTecnicoGFT.dll
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\bin\Debug\net9.0\TesteTecnicoGFT.pdb
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\TesteTecnicoGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\TesteTecnicoGFT.AssemblyInfoInputs.cache
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\TesteTecnicoGFT.AssemblyInfo.cs
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\TesteTecnicoGFT.csproj.CoreCompileInputs.cache
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\TesteTecnicoGFT.sourcelink.json
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\TesteTecnicoGFT.dll
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\refint\TesteTecnicoGFT.dll
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\TesteTecnicoGFT.pdb
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\TesteTecnicoGFT.genruntimeconfig.cache
+C:\Users\Salomone\Desktop\Giancarlo\Projetos-VS-Code\Testetecnicogft\TesteTecnicoGFT\obj\Debug\net9.0\ref\TesteTecnicoGFT.dll

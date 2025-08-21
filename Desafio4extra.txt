@@ -1,0 +1,17 @@
+Desafio 4 - Extra - Prompt para permitir remover contatos da agenda.
+
+"Me ajude a implementar a funcionalidade de remover contatos de uma agenda em C#. Quero que você faça o seguinte:
+
+Explique a lógica de como remover um contato pelo nome ou outro identificador.
+
+Mostre o código completo do método para remover contatos dentro da classe Agenda.
+
+Garanta que o código trate casos em que o contato não exista e que informe o usuário corretamente.
+
+Demonstre como integrar esse método no programa principal (Main), permitindo que o usuário escolha a opção de remover contatos.
+
+Dê exemplos de entrada e saída, mostrando a execução completa.
+
+Explique boas práticas de programação usadas nesse código (como verificar null, usar LINQ ou listas, organizar responsabilidades entre classes, etc).
+
+📌 Quero que o código esteja pronto para rodar e que seja limpo, organizado e fácil de manter."
